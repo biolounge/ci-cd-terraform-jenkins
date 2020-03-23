@@ -1,7 +1,7 @@
 ## Jenkins pipleine script for terraform
 
 pipeline {
-   agent any
+      agent any
  
       stages {
            stage('checkout') {
